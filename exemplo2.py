@@ -1,1 +1,2 @@
-print("Outro exemplo código modificado 2")
+for i in range(1, 101):
+    print(i)
